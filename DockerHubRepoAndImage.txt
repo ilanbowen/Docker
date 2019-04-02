@@ -1,0 +1,2 @@
+DockerHub Repo: 	https://hub.docker.com/r/ilanbowen/opsschool/
+DockerHub ImageTag:	myfirstflaskapp1 
